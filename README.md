@@ -4,10 +4,7 @@ Simple tool that generates passwords that include at least one digit, special ch
 <img src="PASSWORDGENERATOR.png">
 
 # Usage
-1. Run the script by:
-```
-python3 PASSWORDGENERATOR.py
-```
+1. Run the script
 2. Input length of the password you want to generate (must be equal or greater than 4 and should be at least 8)
 3. Generated password will be shown in console
 
