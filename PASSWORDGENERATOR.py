@@ -36,7 +36,7 @@ while True:
     length = int(input("LENGTH: "))
     if length >= 4:
         if length < 8:
-            print("WARRNING: Passwords shorter than 8 characters are not secure!")
+            print("WARNING: Passwords shorter than 8 characters are not secure!")
         break
     print("ERROR: Password cannot be shorter than 4 characters! Try again.")
 
